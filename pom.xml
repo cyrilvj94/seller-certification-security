@@ -127,6 +127,7 @@
 				</dependencies>
 			</plugin>
 		</plugins>
+		<finalName>security</finalName>
 	</build>
 
 </project>
